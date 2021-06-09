@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "333969960338",
+    "project_id": "sante-24579",
+    "storage_bucket": "sante-24579.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333969960338:android:b3d48e04cff906462d654b",
+        "android_client_info": {
+          "package_name": "com.example.sante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333969960338-rqsks9pd1b1cic2m92nm78qp9ahjasmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sante",
+            "certificate_hash": "e2c922da14f70cdb09b7ce2882127f7a8e566c0b"
+          }
+        },
+        {
+          "client_id": "333969960338-h6b1ldgecfsa227cf1l1kqpt1vvsgjo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvls7lo9-K3mZGICcTTEMrBj_qaQcYXOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333969960338-h6b1ldgecfsa227cf1l1kqpt1vvsgjo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
